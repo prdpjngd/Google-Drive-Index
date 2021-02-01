@@ -1,10 +1,10 @@
 /**
-* A Script Redesigned by Parveen Bhadoo from GOIndex at https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index
+* A Script Redesigned by PRDPJNGD
 */
 const authConfig = {
-	"siteName": "Bhadoo Drive Index", // Website name
-	"client_id": "58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com",
-	"client_secret": "ZNPZ-vS6N9Zjsyb_sNMZmXHL",
+	"siteName": "", // Website name
+	"client_id": "202264815644.apps.googleusercontent.com",
+	"client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
 	"refresh_token": "", // Authorize token
 	/**
 	 * Set up multiple Drives to display; add multiples by format
